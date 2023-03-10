@@ -7,4 +7,4 @@ with open("Lab2.txt", "a") as file:
         # append the entered name to the output file
         file.write(name + "\n")
 
-
+print("Elisha Tavagadza")
